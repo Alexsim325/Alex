@@ -36,3 +36,6 @@ namespace Test
 
         }
  
+ Sqlquery
+ //Command to save at a table
+ SELECT [Name,[Email,[Brand],[Model],[Versions],[Windows] from Users
